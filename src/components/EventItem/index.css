@@ -1,0 +1,30 @@
+/* Write your CSS here */
+
+.list-container {
+  list-style-type: none;
+  margin-right: 40px;
+}
+.images {
+  height: 150px;
+}
+.image-name {
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-size: 20px;
+  font-weight: 600;
+}
+.image-location {
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-size: 16px;
+  font-weight: 400;
+}
+.active-border {
+  border: 1px solid #2dd4bf;
+}
+.img-button {
+  cursor: pointer;
+  background-color: transparent;
+  outline: none;
+  border-width: 0px;
+}
